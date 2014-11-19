@@ -2,7 +2,7 @@ Package.describe({
   name: 'carlfredrikhero:accounts-podio',
   summary: 'Login service for Podio accounts',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/carlfredrikhero/meteor-accounts-podio.git'
 });
 
 Package.onUse(function(api) {
